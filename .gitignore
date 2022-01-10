@@ -2,3 +2,7 @@
 __pycache__/
 Lib/
 Scripts/
+generator/
+multiprocessing server/
+parser/
+threading server/
