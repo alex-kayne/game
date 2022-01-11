@@ -1,9 +1,5 @@
 from random import randint
 
-BOT_TOKEN = '1682824012:AAGUhk5360z3918DFHKWtZ8OCNRkCPCP7a4'
-PAYMENTS_PROVIDER_TOKEN = '381764678:TEST:28355 2021-08-12 20:37'
-
-TIME_MACHINE_IMAGE_URL = 'http://erkelzaar.tsudao.com/models/perrotta/TIME_MACHINE.jpg'
 
 screen_size = (1200, 1000)
 # width, height, speed, start_x_postition-start_y_position
